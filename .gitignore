@@ -1,0 +1,9 @@
+# Rust 编译输出
+/target/
+**/*.rs.bk
+
+# 环境文件
+.env
+
+*.PUB
+*.PUB.1
